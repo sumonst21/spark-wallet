@@ -15,8 +15,8 @@
     "browserify": "^16.5.1",
     "browserify-package-json": "^1.0.1",
     "bundle-collapser": "^1.4.0",
-    "electron": "^8.2.3",
-    "electron-builder": "^22.5.1",
+    "electron": "^39.8.5",
+    "electron-builder": "^22.14.13",
     "terser": "^4.6.11"
   },
   "build": {
